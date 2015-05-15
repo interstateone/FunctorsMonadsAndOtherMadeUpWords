@@ -1,6 +1,4 @@
-# Functors, Monads and Other Made-Up Words
-
-A talk that attempts to make functors and monads more concrete with Swift
+![Functors, Monads and Other Made-Up Words](slide.png)
 
 ---
 
